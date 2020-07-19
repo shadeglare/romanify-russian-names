@@ -1,3 +1,5 @@
+THIS REPO MOVED TO https://github.com/hexarc-software/romanify-russian-names
+
 Romanization of russian names
 ===========
 
